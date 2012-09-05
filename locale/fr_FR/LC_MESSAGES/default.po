@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-04 18:36-0500\n"
+"PO-Revision-Date: 2012-02-19 17:53-0500\n"
+"Last-Translator: Amos Chan <amos.chan@chapps.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/achan/repos/didgomezscore.com\n"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:37
+#: /Users/achan/repos/didgomezscore.com/index.php:86
+msgid "Did Scott Gomez Score Last Game?"
+msgstr "Est-ce que Gomez a marqu&eacute; l'autre jour?"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:86
+msgid "Did The Habs Score Last Game?"
+msgstr "Est-ce que les Canadiens ont marqu&eacute; l'autre jour?"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:87
+msgid "Et pis maintenant?"
+msgstr "How about now?"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:97
+msgid "Yes!"
+msgstr "Oui!"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:103
+msgid "No."
+msgstr "Non."
+
+#: /Users/achan/repos/didgomezscore.com/index.php:113
+msgid "Watch out Cam Ward, Scott Gomez is coming for you!"
+msgstr "L&acirc;che pas Gomez, ton deuxi&egrave;me but va venir bient&ocirc;t!"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:119
+msgid "Sorry Scottie, but shootout goals don&apos;t count :("
+msgstr "S'cuse Gomez, mais les tirs de barrage comptent pas :("
+
+#: /Users/achan/repos/didgomezscore.com/index.php:134
+msgid "celebrations.gomez.link"
+msgstr "http://celebrations-gomez.com"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:134
+msgid "Going to the Bell Center for the Anniversary game? You need these instructions!"
+msgstr "Allez-vous au Centre Bell pour le jeu d'anniversaire?  Vous aurez besoin des instructions suivant!"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:154
+msgid "Show Me the Money..."
+msgstr "Crache le cash..."
+
+#: /Users/achan/repos/didgomezscore.com/index.php:158
+#, php-format
+msgid "Scott Gomez has been paid %s by the Montreal Canadiens since his last goal."
+msgstr "Les Canadiens de Montr&eacute;al ont d&eacute;ja pay&eacute; Scott Gomez %s depuis son dernier but."
+
+#: /Users/achan/repos/didgomezscore.com/index.php:158
+msgid "too much"
+msgstr "trop"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:193
+msgid "Reminiscing..."
+msgstr "Je me souviens..."
+
+#: /Users/achan/repos/didgomezscore.com/index.php:197
+msgid "last.goal.desc"
+msgstr "Le 17 f&eacute;vrier, Scott Gomez a doubl&eacute; son nombre de buts total de la saison en avantage num&eacute;rique &agrave; la fin de la premi&egrave;re p&eacute;riode."
+
+#: /Users/achan/repos/didgomezscore.com/index.php:221
+msgid "Anticipation..."
+msgstr "Anticipation..."
+
+#: /Users/achan/repos/didgomezscore.com/index.php:225
+msgid "Congrats Gomez!!!"
+msgstr "Bravo Gomez!!!"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:267
+msgid "countup.layout"
+msgstr "Seulement {d<}{dn} {dl},{d>} {hn} {hl}, {mn} {ml} et {sn} {sl} {desc}"
+
+#: /Users/achan/repos/didgomezscore.com/index.php:268
+msgid "countup.description"
+msgstr "depuis le dernier but de <span id=\"name\">Gomez</span>..."
+
+#: /Users/achan/repos/didgomezscore.com/index.php:284
+msgid "salary.format"
+msgstr "##,###,###.00$ USD"
+
+#~ msgid "How about now?"
+#~ msgstr "Et pis maintenant?"
+
+#~ msgid "YES!"
+#~ msgstr "Oui!"
+
+#~ msgid "this is english text"
+#~ msgstr "this is french text"
